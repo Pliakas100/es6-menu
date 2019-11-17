@@ -1,0 +1,22 @@
+{
+  "name": "es6-menu",
+  "version": "1.0.0",
+  "description": "tecnical exercise for clearpeaks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pliakas100/es6-menu.git"
+  },
+  "author": "cristo pliakas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pliakas100/es6-menu/issues"
+  },
+  "homepage": "https://github.com/Pliakas100/es6-menu#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
