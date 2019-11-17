@@ -1,3 +1,11 @@
 # es6-menu
 
-  git commit -am "By typing this command I am saving a collection of saved files."
+first run 
+```
+  sass public/scss/index.sass public/css/index.css
+```
+
+then  
+```
+  node app.js
+```
