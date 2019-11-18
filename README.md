@@ -1,3 +1,13 @@
+
+Make it run with 
+```
+$ npm install
+$ sass public/scss/index.sass public/css/index.css
+$ node app.js
+```
+
+then open localhost:3000/index.html
+
 ## 🚀 JavaScript Exercise
 
 We want to create an accordion displaying only the content of a section at the same time.
@@ -33,11 +43,3 @@ You must follow the next code sample.
 
 # es6-menu
 
-Make it run with 
-```
-$ npm install
-$ sass public/scss/index.sass public/css/index.css
-node app.js
-```
-
-then open localhost:3000/index.html
