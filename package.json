@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Pliakas100/es6-menu#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "sass": "^1.23.6"
   }
 }
